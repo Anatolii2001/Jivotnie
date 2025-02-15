@@ -1,4 +1,6 @@
-abstract class Pozvonochniy extends Jivotnoe {
+package Abstract;
+
+public abstract class Pozvonochniy extends Jivotnoe {
     public Pozvonochniy(String name) {
         super(name);
     }

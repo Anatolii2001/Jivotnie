@@ -1,3 +1,8 @@
+package Classes;
+
+import Abstract.Mlekopitaushee;
+import Interface.ImeetSherst;
+
 public class Medved extends Mlekopitaushee implements ImeetSherst {
     public Medved(String name) {
         super(name);

@@ -1,4 +1,6 @@
-abstract class Jivotnoe {
+package Abstract;
+
+public abstract class Jivotnoe {
     private final String name;
 
     public Jivotnoe(String name) {

@@ -1,3 +1,8 @@
+package Classes;
+
+import Abstract.Mlekopitaushee;
+import Interface.ImeetSherst;
+
 public class Koshka extends Mlekopitaushee implements ImeetSherst {
     public Koshka(String name) {
         super(name);

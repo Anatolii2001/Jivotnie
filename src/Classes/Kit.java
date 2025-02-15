@@ -1,3 +1,8 @@
+package Classes;
+
+import Abstract.Mlekopitaushee;
+import Interface.ObitatelVodi;
+
 public class Kit extends Mlekopitaushee implements ObitatelVodi {
     public Kit(String name) {
         super(name);

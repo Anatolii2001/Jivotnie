@@ -1,3 +1,8 @@
+package Classes;
+
+import Abstract.Jivotnoe;
+import Interface.ObitatelVodi;
+
 public class Riba extends Jivotnoe implements ObitatelVodi {
     public Riba(String name) {
         super(name);
